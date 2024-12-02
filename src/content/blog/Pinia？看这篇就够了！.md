@@ -10,7 +10,7 @@ featured: false
 # 将这篇文章标记为草稿。
 draft: false
 tags:
-  - vue3
+  - vue
 description: Pinia（发音为/piːnjʌ/，如英语中的“peenya”）是最接近 piña（西班牙语中的菠萝）的词。 Pinia本质上依然是一个全局状态管理的库，用于跨组件、页面进行状态共享（这点和Vuex、Redux、Mobx一样）。
 ---
 
